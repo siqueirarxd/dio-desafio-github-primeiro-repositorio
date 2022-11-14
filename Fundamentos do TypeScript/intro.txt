@@ -1,0 +1,1 @@
+Aqui ficarão minhas anotações sobre meu curso de introdução ao TypeScript.
